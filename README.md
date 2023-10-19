@@ -20,5 +20,5 @@ POST /usuario (crear usuario) <br>
 GET /usuarios (obtener todos los usuarios)<br>
 PUT /usuario/:id (actualizar usuario usando el id como argumento en la url)<br>
 DELETE /usuario/:id (eliminar un usuario usando el id como argumento en la url)<br>
-POST /transferencia (hacer una nueva trasnferencia)<br>
+POST /transferencia (hacer una nueva transferencia)<br>
 GET /transferencias (obtener el historial de transferencias)
