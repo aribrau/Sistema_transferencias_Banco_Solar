@@ -16,9 +16,9 @@ Se uso el Modelo Vista Controlador para el desarrollo del programa.
 
 Rutas
 
-POST /usuario (crear usuario)
-GET /usuarios (obtener todos los usuarios)
-PUT /usuario/:id (actualizar usuario usando el id como argumento en la url)
-DELETE /usuario/:id (eliminar un usuario usando el id como argumento en la url)
-POST /transferencia (hacer una nueva trasnferencia)
+POST /usuario (crear usuario) <br>
+GET /usuarios (obtener todos los usuarios)<br>
+PUT /usuario/:id (actualizar usuario usando el id como argumento en la url)<br>
+DELETE /usuario/:id (eliminar un usuario usando el id como argumento en la url)<br>
+POST /transferencia (hacer una nueva trasnferencia)<br>
 GET /transferencias (obtener el historial de transferencias)
